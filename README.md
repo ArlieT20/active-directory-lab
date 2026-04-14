@@ -53,7 +53,7 @@ This project demonstrates the deployment of a Windows Server 2022 Domain Control
 ### 3. User Management
 
 * Created Organizational Unit (Employees)
-* Added users: john.doe, jane.smith
+* Added users: Arlie Tapia, jane.smith
 * Configured password reset and forced password changes
 
 ### 4. Group Policy (Security)
