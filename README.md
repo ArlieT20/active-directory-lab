@@ -102,9 +102,9 @@ This project demonstrates the deployment of a Windows Server 2022 Domain Control
 ## Screenshots
 
 * Active Directory Users and Computers
-
-* Created users
-
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/284cb419-ede4-4279-a6c3-006d5fcc2e48" />
 * Group Policy settings
-<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/8bbde401-34b6-4bb1-989b-49b1b31c7cdc" />
+<img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/b21d7605-a85b-41df-b407-9bb2b772bcdf" />
 * Domain login screen
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/8bbde401-34b6-4bb1-989b-49b1b31c7cdc" />
+
